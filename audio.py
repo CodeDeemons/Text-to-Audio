@@ -14,7 +14,7 @@ root.title('TEXT_TO_SPEECH')
 
 # heading
 Label(root, text = 'TEXT TO SPEECH', font='arial 20 bold', bg ='#FFE873').pack()
-Label(root, text ='Sarfaraz Hassan', font ='arial 15 bold', bg = '#FFE873').pack(side = BOTTOM)
+Label(root, text ='Deepak Barnwal', font ='arial 15 bold', bg = '#FFE873').pack(side = BOTTOM)
 
 # label
 Label(root, text ='Enter Text', font ='arial 15 bold', bg ='#FFE873').place(x=200, y=60)
